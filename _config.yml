@@ -1,0 +1,28 @@
+# Site settings
+title: Jessica H. Lindsey
+baseurl: "" # the subpath of your site, e.g. /blog/
+# for rss, etc
+name: Jessica H. Lindsey
+url: "http://jessicahlindsey.com" # the base hostname & protocol for your site
+description: > # this means to ignore newlines until "baseurl:"
+  Personal and professional website for Jessica H. Lindsey.
+
+# usernames
+username_twitter: 
+username_github: 
+username_gplus: 
+username_linkedin: 
+username_steam: 
+username_facebook: 
+
+# contact info
+phone: 
+email: 
+hours: 
+
+timezone: America/Pacific
+
+# blog post url format
+permalink: /blog/:year/:month/:day/:title.html
+paginate: 5
+paginate_path: "/blog/page:num/"
